@@ -586,28 +586,6 @@ The project can be further improved by:
 * Add authentication.
 * Add data visualization.
 * Improve error handling.
-
----
-
-# 📌 What I Learned
-
-Through this project, I gained practical experience in the complete Machine Learning development process, including:
-
-* Data loading and preprocessing
-* Handling categorical variables
-* Date feature extraction
-* Feature and target selection
-* Train-test splitting
-* Multiple Linear Regression
-* Model training and prediction
-* RMSE-based evaluation
-* Model serialization using Pickle
-* Flask application development
-* Git and GitHub
-* Deployment using Render
-
-This project helped me understand how a Machine Learning model can be converted into a real-world web application.
-
 ---
 
 # 📊 Project Highlights
@@ -643,21 +621,6 @@ Git + GitHub
 ```
 
 ---
-
-# 👩‍💻 Author
-
-### Sri Bhavya Mandapati
-
-**B.Tech – Information Technology | 2026 Graduate**
-
-Interested in:
-
-* Data Science
-* Machine Learning
-* Artificial Intelligence
-* Python
-* Generative AI
-
 ---
 
 # ⭐ If You Like This Project
